@@ -1,5 +1,11 @@
+
+ html * {
+  font-family:  "Roboto Flex", sans-serif !important;
+  }
+
+
 body {
-  font-family: Sans-serif;
+  font-family: "Roboto Flex", sans-serif;
   font-size: 12px;
   display: flex;
   flex-direction: column;
